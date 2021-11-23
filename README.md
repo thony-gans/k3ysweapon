@@ -1,3 +1,5 @@
+# DdoS Attack 
+
 mungkin beberapa dari generasi baru yang terjun ke dunia Cyber untuk pertama kalinya, beberapa dari mereka kesulitan saat menginstal atau menjalankan perintah termux atau di terminal saya sediakan cara penginstalan nya sangat lah mudah..
 
 material installation in Termux 🤖
@@ -30,9 +32,13 @@ E) CyberMap (  untuk melihat serangan beda server apakah berhasil? disarankan un
 
 ================================
 
-cara menggunakan nya 
+cara menggunakan nya di termux
 
-<img src="Screenshot_2021_1123_104724.jpg" alt="My cool logo" style="width:400px;height:600px"/>
+<img src="Screenshot_2021_1123_104724.jpg" alt="termux" style="width:400px;height:600px"/>
+
+cara menggunakan nya di kali linux 
+
+<img src="IMG_20211123_124907.jpg" alt="Linux" style="width:400px;height:600px"/>
 
 Oke Seperti nya Saya Sudah Memberikan semua informasi tentang tools ini silahkan jika mau bergabung dengan team kami di grub WhatsApp berikut ini😁🤗
 
