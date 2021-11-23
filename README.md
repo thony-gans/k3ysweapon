@@ -44,6 +44,8 @@ Oke Seperti nya Saya Sudah Memberikan semua informasi tentang tools ini silahkan
 
 https://chat.whatsapp.com/LoJEvYFHSxKDS7mU6BfJxt 😎
 
+Donate 💰: https://bit.ly/3xgl5LV
+
 💪Subscribe juga YouTube kami🤖
 https://youtu.be/yhdAT-gNN_E 👊
 
